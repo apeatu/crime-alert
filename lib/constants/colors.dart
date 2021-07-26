@@ -1,0 +1,4 @@
+class Colors {
+  Colors._();
+
+}
